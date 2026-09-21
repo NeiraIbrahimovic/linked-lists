@@ -1,0 +1,18 @@
+[
+  {
+    "path": "src/portfolio/algorithms/MyLinkedList.java",
+    "recovered_source_sha256": "1f7013b0d543ebf9dc672f3a1ba968bf2ff04491452c47ec62839b3a30298523"
+  },
+  {
+    "path": "src/portfolio/algorithms/MyLinkedListTest.java",
+    "recovered_source_sha256": "87b8793ca48b96b2e2232edfb1c179eb4c78c4f80ce3d4cee5d3d9b8a0148e43"
+  },
+  {
+    "path": "src/portfolio/algorithms/MyRawLinkedList.java",
+    "recovered_source_sha256": "0e15d2b43b9e6064d50604ee668b7b654dc001e7ca62acacde3fcfca79467ee3"
+  },
+  {
+    "path": "src/portfolio/algorithms/MyRawLinkedListTest.java",
+    "recovered_source_sha256": "eb9afab54676bce4407bce8c453500ebe2d2ee93db120402dc182a946877989d"
+  }
+]
